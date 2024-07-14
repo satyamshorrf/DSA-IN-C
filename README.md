@@ -61,12 +61,16 @@ Prim's: Adds the smallest edge that connects a new vertex to the growing MST.
 Kruskal's: Adds edges in order of increasing weight to the MST.
 Topological Sorting: Orders vertices such that for every directed edge u -> v, u comes before v.
 Strongly Connected Components (SCC): Identifies maximal subgraphs where every vertex is reachable from every other vertex in the subgraph.
+![graph18](https://github.com/user-attachments/assets/69b34113-5fd6-48b5-9427-7af0c9c8b26b)
+
+
 
 # Tree Algorithms:
 
 Tree Traversal: Visits all nodes in a tree (Inorder, Preorder, Postorder).
 Binary Search Tree (BST) Operations: Insertion, deletion, and search operations in a BST.
 Lowest Common Ancestor (LCA): Finds the lowest common ancestor of two nodes in a tree.
+![Treedatastructure](https://github.com/user-attachments/assets/c57023bd-79aa-4a22-aacf-7b2a34924756)
 
 
 
